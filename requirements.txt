@@ -91,3 +91,4 @@ tzdata==2024.2
 urllib3==2.2.2
 virtualenv==20.26.2
 wcwidth==0.2.13
+whitenoise==6.2.0
