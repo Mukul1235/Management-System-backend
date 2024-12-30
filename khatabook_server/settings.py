@@ -58,7 +58,8 @@ SIMPLE_JWT = {
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",  # React development server
-    "https://f-smanagementsystem.onrender.com"
+    "https://f-smanagementsystem.onrender.com",
+    "https://managementsystem-ywdf.onrender.com"
 ]
 
 MIDDLEWARE = [
